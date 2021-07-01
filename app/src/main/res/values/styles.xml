@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.NoteAppKotlin" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#232121</item>
+        <item name="colorPrimaryDark">#232121</item>
+        <item name="colorAccent">#232121</item>
+    </style>
+
+</resources>
